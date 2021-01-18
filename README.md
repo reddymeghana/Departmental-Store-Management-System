@@ -1,6 +1,5 @@
 # Departmental-Store-Management-System
 A DBMS project where customers can place their orders by selecting required items, delete and view their order and total price.
-
 Software Reqirements: 
 Technology used:
 1.Language: JSP
@@ -18,3 +17,4 @@ Technology used:
 5.Run Apache and MySql on XAMPP.
 6.Insert the mysql-connector-java in the lib folder.
 7.Run the attached codes on Tomcat Server in the IDE.
+
